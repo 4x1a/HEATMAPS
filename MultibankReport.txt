@@ -1,0 +1,49 @@
+
+FDIC Certificate# FDIC Certificate # 27267	 FRB District/ID_RSSD FRB District/ID_RSSD 2 / 1169650	AMERASIA BANK; FLUSHING, NY
+OCC Charter# OCC Charter # 0	 County: County: QUEENS 	 Multiple Banks: Concentrations of Credit 	 07/07/2025 03:24:10 PM
+ Public Report 
+
+	1169650	959304	
+			
+Loan & Leases as a % of Tier 1 Capital Plus ACL on LN&LS HFI			
+Real Estate Loans	503.90	682.61	
+Construction & Development	29.56	7.86	
+  1 - 4 Family Construction	0.00	0.00	
+  Other Const & Land Development	29.56	7.86	
+Secured by Farmland	0.55	0.00	
+1 - 4 Family Residential	88.84	86.43	
+  Home Equity Loans	2.76	1.78	
+1 - 4 Family 1st Lien Loans	84.09	84.65	
+1 - 4 Family Jr Lien Loans	1.99	0.00	
+  Multifamily	87.68	286.20	
+  Non - Farm Non - Residential	297.27	302.12	
+    Owner Occupied Non - Farm Non - Residential	70.05	84.87	
+    Other Non - Farm Non - Residential	227.21	217.24	
+RE Loans in Foreign Offices	N/A	N/A	
+			
+Financial Institution Loans	10.10	0.00	
+Agricultural Loans	0.00	0.00	
+Commercial & Industrial Loans	5.77	73.00	
+Loans to Individuals	0.04	0.06	
+Credit Card Loans	0.00	0.00	
+Auto Loans	0.00	0.00	
+Municipal Loans	0.00	0.00	
+Non - Depository and Other	0.08	0.00	
+Loans to Foreign Governments	N/A	N/A	
+Lease Financing Receivables	0.00	0.00	
+Leases to Individuals	N/A	0.00	
+All Other Leases	N/A	0.00	
+			
+Supplemental:			
+Loans to Finance Commercial Real Estate	0.00	0.00	
+Foreign Office Loans & Leases	0.00	0.00	
+			
+Commercial Real Estate Loans as a % of Tier 1 Capital Plus ACL on LN&LS HFI			
+Non - owner OCC Commercial Real Estate	344.45	511.30	
+Memo: NOO CRE 3 - Year Growth Rate	31.73	5.73	
+Total Commercial Real Estate	414.50	596.18	
+			
+Commercial Real Estate Loans as a % of Total LN&LS:			
+Construction & Development	5.69	1.04	
+Non - owner OCC Commercial Real Estate	66.34	67.66	
+Total Commercial Real Estate	79.83	78.90	
